@@ -1,4 +1,4 @@
-# nbdev template
+# adampy
 
-Use this template to more easily create your nbdev project.
+simple library of things I find myself doing over and over again
 
