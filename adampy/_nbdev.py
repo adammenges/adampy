@@ -2,9 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"say_hello": "00_core.ipynb",
+         "csv_to_list_of_dict": "00_core.ipynb",
+         "percent_gain": "01_financial.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "financial.py"]
 
 doc_url = "https://adammenges.github.io/adampy/"
 
